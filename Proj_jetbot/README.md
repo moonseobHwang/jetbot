@@ -44,8 +44,7 @@ To get started, read the [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/w
 본 프로젝트는 자율주행을 구현 한 것입니다.
 
     1. ML, 장애물 통과 패턴 구현
-    2.   
-    3. Detecting
+    2. Detecting
 
 ```
 <br><br>
@@ -61,9 +60,6 @@ To get started, read the [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/w
 <br><br>
 
 <br><br><br><br>
-
-## 구성 화면
-<br><br><br>
 
 ### 초안 구성
 <br><br>
