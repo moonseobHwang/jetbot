@@ -36,7 +36,6 @@ To get started, read the [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/w
 
 ## INDEX
 *    ### 개발 환경
-*    ### 페이지 구성
 *    ### 상세 내용
 
 <br>
@@ -50,31 +49,37 @@ To get started, read the [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/w
 
 ```
 <br><br>
+
 # 개발 환경
 ### - OS : Ubuntu 18.04
 ### - Language : Python
-### - Tools : Jupyter
+### - Tools : Jupyter, OpenCV
 
 <br><br>
-# 초안 구성
-<br><br>
-화면캡쳐 -> 이미지 변환 -> 디텍팅 -> Model 학습 ->  ML 장애물 회피 및 lines tracking 주행-<br>
+
+# 상세 내용
 <br><br>
 
 <br><br><br><br>
-## 구성 화면(초안)
+
+## 구성 화면
 <br><br><br>
 <img src ='22222.png'>  
 <br><br><br>
 
-
-## 코드 구조 
-
+## 초안 구성
 <br><br>
-<img src = 'game .png'>
+화면캡쳐 -> 이미지 변환 -> 디텍팅 -> Model 학습 ->  ML 장애물 회피 및 lines tracking -> 주행<br>
+<br><br>
 
-## 구동영상 
+## 화면캡쳐 
+<br><br>
 <img src = 'xy_024_047_10a2944e-3f66-11eb-b490-ccd9ac085048.jpg'>
+<br><br>
+
+## 코드 구조 및 Frame 변환, lines detecting
+<img src = 'xy_024_047_10a2944e-3f66-11eb-b490-ccd9ac085048.jpg'>
+<br><br>
 
 ## 구동영상 
 <iframe width="560" height="315" src=" " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
