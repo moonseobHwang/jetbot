@@ -65,19 +65,19 @@ To get started, read the [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/w
 ## 구성 화면
 <br><br><br>
 
-## 초안 구성
+### 초안 구성
 <br><br>
 화면캡쳐 -> 이미지 변환 -> 디텍팅 -> Model 학습 ->  ML 장애물 회피 및 lines tracking -> 주행<br>
 <br><br>
 
-## 화면캡쳐 
+### 화면캡쳐 
 <br><br>
 <img src = 'xy_024_047_10a2944e-3f66-11eb-b490-ccd9ac085048.jpg'>
 <br><br>
 
-## 코드 구조 및 Frame 변환, lines detecting
+### 코드 구조 및 Frame 변환, lines detecting
 <img src = 'Frame_diff.png'>
 <br><br>
 
-## 구동영상 
+### 구동영상 
 <iframe width="560" height="315" src=" " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
