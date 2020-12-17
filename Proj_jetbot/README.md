@@ -64,7 +64,7 @@ To get started, read the [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/w
 
 ## 구성 화면
 <br><br><br>
-<img src ='22222.png'>  
+<img src ='Frame_diff.png'>  
 <br><br><br>
 
 ## 초안 구성
